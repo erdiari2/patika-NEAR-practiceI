@@ -1,3 +1,6 @@
+# Changes made for patika
+All of the tasks done and commited to repository. Only the the last task is on HEAD. Other tasks can be found in commit history.
+
 # `near-sdk-as` Starter Kit
 
 This is a good project to use as a starting point for your AssemblyScript project.
